@@ -1,3 +1,8 @@
 nav {
     border: 1px solid red;
 }
+
+button {
+    padding: 5px;
+    background: grey;
+}
