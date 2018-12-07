@@ -1,8 +1,482 @@
-nav {
-    border: 1px solid red;
+a {
+    color: gray;
+}
+.navtop {
+    margin-left: 100px;
+    margin-top: 85px;
+    margin-bottom: 30px;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.program {
+    margin-left: 10px;
+}
+.studentw {
+    margin-left: 10px;
+}
+.vcdc {
+    margin-left: 10px;
 }
 
-button {
+.navbottom {
+    margin-left: 100px;
+    margin-bottom: 60px;
+    font-size: 25;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bfa {
+    margin-left: 10px;
+}
+.staff {
+    margin-left:10px;
+}
+
+
+.theprogram {
+    margin-left: 620px;
+    margin-bottom: 100px;
+    margin-top: -850px;
+    
+}
+
+.pic1 {
+    margin-left: -10px;
+}
+
+.programh { 
+    font-size: 160;
+    color: rgb(206, 78, 78);
+}
+.p1 {
+    font-size: 33;
+    margin-top: -95px;
+    color: gray;
+}
+
+.reqcourses {
+    margin-bottom: 70px;
+}
+
+.pic2 {
+    margin-left: 600px;
+}
+.like {
+    font-size: 160;
+    margin-top: -600px;
+    margin-left: 150px;
+    color: rgb(206, 78, 78);
+}
+.button1 {
+    padding: 10px;
+    font-size: 29;
+    background: #abc4c4;
+    color: white;
+    height: 70px;
+    width: 245px;
+    margin-left: 150px;
+    margin-bottom: 200px;
+}
+.button1:hover {
+    background-color: darkgray;
+}
+
+
+
+
+.supportpic {
+    margin-left: -10px;
+    margin-top: 30px;
+}
+.supporth {
+    margin-top: -680px;
+    margin-left: 620px;
+    font-size: 60;
+    color: rgb(206, 78, 78);
+}
+.supporth2 {
+    margin-top: -60px;
+    margin-left: 620px;
+    font-size: 60;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 78, 78);
+}
+
+.scourses {
+    background: #abc4c4;
+    padding: 20px;
+    padding-left: 10px;
+    margin-left: 600px;
+    margin-top: -50px;
+    margin-bottom: 200px;
+    opacity: .6;
+    font-size: 27;
+}
+.desn107 {
+    margin-top: -30px;
+}
+.ps {
+    margin-top: -30px;
+}
+.tcom {
+    margin-top: -30px;
+}
+.tech {
+    margin-top: -30px;
+}
+
+.uxpic {
+    margin-left: -10px;
+    margin-top: 80px;
+}
+.cert {
+    margin-top: -740px;
+    margin-left: 620px;
+    font-size: 70;
+    color: rgb(206, 78, 78);
+}
+.credit24 {
+    margin-top: -60px;
+    margin-left: 620px;
+    font-size: 60;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 78, 78);
+}
+
+.ux {
+    background: #abc4c4;
+    padding: 20px;
+    padding-right: 10px;
+    margin-left: 600px;
+    margin-top: -50px;
+    margin-bottom: 200px;
+    opacity: .6;
+    font-size: 27;
+}
+
+.d338 {
+    margin-top: -30px;
+}
+.d368 {
+    margin-top: -30px;
+}
+.d348 {
+    margin-top: -30px;
+}
+.d458 {
+    margin-top: -30px;
+}
+.d468 {
+    margin-top: -30px;
+}
+
+.bfapic {
+    margin-left: 600px;
+    margin-top: 40px;
+}
+.bfapro {
+    font-size: 180;
+    margin-top: -900px;
+    margin-left: 150px;
+    color: rgb(206, 78, 78);
+
+}
+.bfap {
+    margin-top: -70px;
+    margin-left: 150px;
+    font-size: 25;
+    width: 520px;
+    color: gray;
+}
+.button2 {
+    padding: 10px;
+    font-size: 29;
+    background: #abc4c4;
+    color: white;
+    height: 70px;
+    width: 245px;
+    margin-left: 150px;
+    margin-bottom: 200px;
+}
+.button2:hover {
+    background-color: darkgray;
+}
+
+.staff2 {
+    font-size: 160;
+    margin-top: -600px;
+    margin-left: 40px;
+    margin-bottom: 300px;
+    color: rgb(206, 78, 78);
+}
+.staffpic {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.mindy {
+    filter: grayscale(100%)
+}
+.mindyb {
+    background: #abc4c4;
+    opacity: .6;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: -650px;
+    margin-bottom: 200px;
+}
+.namemb {
+    font-size: 70;
+    color: red;
+}
+.mtitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classm {
+    font-size: 30;
+    margin-top: -40px;
+}
+.mindycontact {
+    font-size: 25;
+}
+.mclass {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.mindycollege {
+    font-size: 25;
+}
+.mewu {
+    margin-top: -15px;
+}
+.mui {
+    margin-top: -15px;
+}
+
+.sonjapic {
+    margin-left: 600px;
+    filter: grayscale(100%)
+}
+.sonjab {
+    background: #abc4c4;
+    opacity: .6;
+    padding: 10px;
+    width: 700px;
+    margin-left: 0px;
+    margin-top: -650px;
+    margin-bottom: 200px;
+}
+.namesd {
+    font-size: 100;
+    color: red;
+}
+.stitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classs {
+    font-size: 30;
+    margin-top: -40px;
+}
+.sonjacontact {
+    font-size: 25;
+}
+.seml {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.sonjacollege {
+    font-size: 25;
+}
+.smsu {
+    margin-top: -15px;
+}
+.sv {
+    margin-top: -15px;
+}
+
+.ginellepic {
+    filter: grayscale(100%)
+}
+.ginelleb {
+    background: #abc4c4;
+    opacity: .6;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: -710px;
+    margin-bottom: 200px;
+}
+.nameg {
+    font-size: 70;
+    color: red;
+}
+.gtitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classg {
+    font-size: 30;
+    margin-top: -40px;
+}
+.ginellecontact {
+    font-size: 25;
+}
+.gclass {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.ginellecollege {
+    font-size: 25;
+}
+.gw {
+    margin-top: -15px;
+}
+.gm {
+    margin-top: -15px;
+}
+
+.travispic {
+    margin-left: 800px;
+    filter: grayscale(100%)
+}
+.travisb {
+    background: #abc4c4;
+    opacity: .6;
     padding: 5px;
-    background: grey;
+    width: 900px;
+    margin-left: 0px;
+    margin-top: -855px;
+    margin-bottom: 200px;
+}
+.namet {
+    font-size: 100;
+    color: red;
+}
+.ttitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classt {
+    font-size: 30;
+    margin-top: -40px;
+}
+.traviscontact {
+    font-size: 25;
+}
+.teml {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.traviscollege {
+    font-size: 25;
+}
+.tewu {
+    margin-top: -15px;
+}
+.tewu2 {
+    margin-top: -15px;
+}
+.emt {
+    margin-top: -15px;
+}
+.tmic {
+    margin-top: -15px;
+}
+
+.colinpic {
+    filter: grayscale(100%)
+}
+.colinb {
+    background: #abc4c4;
+    opacity: .6;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: -650px;
+    margin-bottom: 200px;
+}
+.namec {
+    font-size: 70;
+    color: red;
+}
+.ctitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classc {
+    font-size: 30;
+    margin-top: -40px;
+}
+.colincontact {
+    font-size: 25;
+}
+.ceml {
+    margin-top: -15px;
+    margin-bottom: 45px;
+}
+.cclass {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.colincollege {
+    font-size: 25;
+}
+.cuw {
+    margin-top: -15px;
+}
+.cui {
+    margin-top: -15px;
+}
+
+.tyreilpic {
+    margin-left: 800px;
+    margin-bottom: 205px;
+    filter: grayscale(100%)
+
+}
+.tyreilb {
+    background: #abc4c4;
+    opacity: .6;
+    padding: 5px;
+    width: 900px;
+    margin-left: 0px;
+    margin-top: -855px;
+    margin-bottom: 200px;
+}
+.nametp {
+    font-size: 100;
+    color: red;
+}
+.tptitle {
+    font-size: 40;
+    font-style: italic;
+    margin-top: -30px;
+}
+.classtp {
+    font-size: 30;
+    margin-top: -40px;
+}
+.tyreilcontact {
+    font-size: 25;
+}
+.tpeml {
+    margin-top: -15px;
+    margin-bottom: 55px;
+}
+.tyreilcollege {
+    font-size: 25;
+}
+
+
+
+
+.footer {
+    background:#b3cccc;
+    color: white;
+    padding: 10px;
 }
