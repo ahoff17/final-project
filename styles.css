@@ -1,3 +1,7 @@
+.all {
+    position: absolute;
+}
+
 a {
     color: gray;
 }
@@ -38,6 +42,29 @@ a {
     margin-bottom: 100px;
     margin-top: -850px;
     
+    
+}
+
+.vcd1 {
+    font-size: 80;
+    color: rgb(206, 78, 78);
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.vcdp {
+    font-size: 30;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: -50px;
+    color: gray;
+}
+.vcdp2 {
+    font-size: 30;
+    width: 500px;
+    margin-left: 700px;
+    margin-top: -245px;
+    margin-bottom: 100px;
+    color: gray;
 }
 
 .pic1 {
@@ -51,12 +78,80 @@ a {
 .p1 {
     font-size: 33;
     margin-top: -95px;
+    width: 600px;
     color: gray;
 }
 
+.rcourse {
+    font-size: 80;
+    color: rgb(206, 78, 78);
+    margin-top: -70px;
+    margin-left: 50px;
+}
+.rcredits {
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 78, 78);
+    margin-top: -70px;
+    margin-left: 50px;
+}
 .reqcourses {
     margin-bottom: 70px;
+    font-size: 27;
+    color: gray;
 }
+
+.req1 {
+    margin-left: 50px;
+}
+.req2 {
+    margin-left: 700px;
+    margin-top: -576px;
+}
+
+.desn100 {
+    margin-top: -20px;
+}
+.desn216 {
+    margin-top: -20px;
+}
+.desn243 {
+    margin-top: -20px;
+}
+.desn259 {
+    margin-top: -20px;
+}
+.desn263 {
+    margin-top: -20px;
+}
+.desn338 {
+    margin-top: -20px;
+}
+.desn363 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn366 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn368 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn463 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn490 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn493 {
+    margin-top: -20px;
+    font-style: italic;
+}
+
 
 .pic2 {
     margin-left: 600px;
@@ -86,17 +181,17 @@ a {
 
 .supportpic {
     margin-left: -10px;
-    margin-top: 30px;
+    margin-top: 80px;
 }
 .supporth {
     margin-top: -680px;
-    margin-left: 620px;
-    font-size: 60;
+    margin-left: 600px;
+    font-size: 80;
     color: rgb(206, 78, 78);
 }
 .supporth2 {
     margin-top: -60px;
-    margin-left: 620px;
+    margin-left: 600px;
     font-size: 60;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(206, 78, 78);
@@ -125,6 +220,68 @@ a {
     margin-top: -30px;
 }
 
+.ecourse {
+    font-size: 80;
+    color: rgb(206, 78, 78);
+    margin-top: -70px;
+    margin-left: 50px;
+}
+.ecredits {
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(206, 78, 78);
+    margin-top: -70px;
+    margin-left: 50px;
+}
+.eleccourses {
+    margin-bottom: 150px;
+    font-size: 27;
+    color: gray;
+}
+
+.elec1 {
+    margin-left: 50px;
+}
+.elec2 {
+    margin-left: 700px;
+    margin-top: -576px;
+}
+
+.desn275 {
+    margin-top: -20px;
+}
+.desn350 {
+    margin-top: -20px;
+}
+.desn355 {
+    margin-top: -20px;
+}
+.desn375 {
+    margin-top: -20px;
+}
+.desn3382 {
+    margin-top: -20px;
+}
+.desn475 {
+    margin-top: -20px;
+}
+.desn468 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn480 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn491 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.desn495 {
+    margin-top: -20px;
+    font-style: italic;
+}
+
 .uxpic {
     margin-left: -10px;
     margin-top: 80px;
@@ -132,7 +289,7 @@ a {
 .cert {
     margin-top: -740px;
     margin-left: 620px;
-    font-size: 70;
+    font-size: 80;
     color: rgb(206, 78, 78);
 }
 .credit24 {
@@ -201,6 +358,102 @@ a {
 .button2:hover {
     background-color: darkgray;
 }
+
+.bcourse {
+    font-size: 80;
+    color: rgb(206, 78, 78);
+    margin-top: -70px;
+    margin-left: 50px;
+}
+.bfacourses {
+    margin-bottom: 150px;
+    font-size: 27;
+    color: gray;
+}
+
+.bfa1 {
+    margin-left: 50px;
+}
+.bfa2 {
+    margin-left: 700px;
+    margin-top: -1050px;
+}
+
+.a107 {
+    margin-top: -20px;
+}
+.a207 {
+    margin-top: -20px;
+}
+.a213 {
+    margin-top: -20px;
+}
+.a300 {
+    margin-top: -20px;
+}
+.a303 {
+    margin-top: -20px;
+}
+.a307 {
+    margin-top: -20px;
+}
+.a360 {
+    margin-top: -20px;
+}
+.a401 {
+    margin-top: -20px;
+
+}
+.a431 {
+    margin-top: -20px;
+
+}
+.dsn216 {
+    margin-top: -20px;
+
+}
+.dsn243 {
+    margin-top: -20px;
+
+}
+.dsn259 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn263 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn363 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn368 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn463 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn471 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn490 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.dsn495 {
+    margin-top: -20px;
+    font-style: italic;
+}
+.tech393 {
+    margin-top: -20px;
+    font-style: italic;
+}
+
+
 
 .staff2 {
     font-size: 160;
@@ -349,7 +602,7 @@ a {
     padding: 5px;
     width: 900px;
     margin-left: 0px;
-    margin-top: -855px;
+    margin-top: -885px;
     margin-bottom: 200px;
 }
 .namet {
@@ -478,5 +731,14 @@ a {
 .footer {
     background:#b3cccc;
     color: white;
-    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    padding: 60px;
+}
+
+
+.bottomnav {
+    margin-left: 1000px;
+    margin-top: -200px;
+
 }
